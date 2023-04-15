@@ -10,19 +10,16 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 
 ```
 ## Developer
-- [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
+- [AutoApprove Bot by TeenFire]
 ```
 
 
 
 <p align="center">
-<a href="https://youtu.be/dAXspAB-xQU"><img src="https://telegra.ph/file/9582576b315e04a0a02a7.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href=""><img src="https://telegra.ph/file/9582576b315e04a0a02a7.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/github/stars/PR0FESS0R-99/Auto-Approved-Bot?style=social" />
-<img src="https://img.shields.io/github/forks/PR0FESS0R-99/Auto-Approved-Bot?style=social" />
-</p>
+
 
 <p align="center">
 ℹ️ 𝗨𝘀𝗲𝗴𝗲 ℹ️
@@ -35,7 +32,7 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 ♦️ 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 ♦️
 </p>
 <p align="center">
-<a href="https://youtu.be/Af055Eozk9s">/start</a> - <b>Start</b>
+<a href="">/start</a> - <b>Start</b>
 </p>
 
 <p align="center">
@@ -81,18 +78,7 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 <b>APPROVED_WELCOME_TEXT</b> <a href="https://youtu.be/cB4UduCcNWs">Approved Welcome Text</a>
 </p>
 
-<p align="center">
-😎 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 😎
-</p>
-<p align="center">
-<a href="https://youtu.be/Af055Eozk9s">Pyrogram</a>
-</p>
-<p align="center">
-<a href="https://youtu.be/Af055Eozk9s">Muhammed</a>
-</p>
-<p align="center">
-<a href="https://github.com/PR0FESS0R-99/Auto-Approved-Bot">Orginal Repo</a>
-</p>
+
 
 
 
